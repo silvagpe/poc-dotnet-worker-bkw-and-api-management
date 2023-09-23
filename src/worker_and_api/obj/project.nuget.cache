@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "/f6lFC8ynVGFsZirEdcaSZdAo+zvPBbaa5JQ7hB+A+c0BGinowlpwTZ7ERbTpkXcWlPrpUswYIna/g8nd56VDg==",
+  "success": true,
+  "projectFilePath": "/Users/silvagpe/projetos/github/poc-dotnet-worker-bkw-and-api-management/src/worker_and_api/worker_and_api.csproj",
+  "expectedPackageFiles": [
+    "/Users/silvagpe/.nuget/packages/aspnetcore.healthchecks.ui.client/7.1.0/aspnetcore.healthchecks.ui.client.7.1.0.nupkg.sha512",
+    "/Users/silvagpe/.nuget/packages/aspnetcore.healthchecks.ui.core/7.0.0/aspnetcore.healthchecks.ui.core.7.0.0.nupkg.sha512",
+    "/Users/silvagpe/.nuget/packages/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "/Users/silvagpe/.nuget/packages/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "/Users/silvagpe/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/silvagpe/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/silvagpe/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/silvagpe/.nuget/packages/microsoft.extensions.diagnostics.healthchecks/7.0.11/microsoft.extensions.diagnostics.healthchecks.7.0.11.nupkg.sha512",
+    "/Users/silvagpe/.nuget/packages/microsoft.extensions.diagnostics.healthchecks.abstractions/7.0.11/microsoft.extensions.diagnostics.healthchecks.abstractions.7.0.11.nupkg.sha512",
+    "/Users/silvagpe/.nuget/packages/microsoft.extensions.fileproviders.abstractions/7.0.0/microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "/Users/silvagpe/.nuget/packages/microsoft.extensions.hosting.abstractions/7.0.0/microsoft.extensions.hosting.abstractions.7.0.0.nupkg.sha512",
+    "/Users/silvagpe/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.1/microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "/Users/silvagpe/.nuget/packages/microsoft.extensions.options/7.0.1/microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "/Users/silvagpe/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/silvagpe/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/silvagpe/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/silvagpe/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/silvagpe/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/silvagpe/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/silvagpe/.nuget/packages/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

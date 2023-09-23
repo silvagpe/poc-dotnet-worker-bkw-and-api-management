@@ -1,0 +1,3 @@
+{
+    "dotnet.defaultSolution": "worker_and_api.sln"
+}

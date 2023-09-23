@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/silvagpe/projetos/github/poc-dotnet-worker-bkw-and-api-management/src/worker_and_api/worker_and_api.csproj": {}
+  },
+  "projects": {
+    "/Users/silvagpe/projetos/github/poc-dotnet-worker-bkw-and-api-management/src/worker_and_api/worker_and_api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/silvagpe/projetos/github/poc-dotnet-worker-bkw-and-api-management/src/worker_and_api/worker_and_api.csproj",
+        "projectName": "worker_and_api",
+        "projectPath": "/Users/silvagpe/projetos/github/poc-dotnet-worker-bkw-and-api-management/src/worker_and_api/worker_and_api.csproj",
+        "packagesPath": "/Users/silvagpe/.nuget/packages/",
+        "outputPath": "/Users/silvagpe/projetos/github/poc-dotnet-worker-bkw-and-api-management/src/worker_and_api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/silvagpe/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.com/api/v4/groups/11619148/-/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AspNetCore.HealthChecks.UI.Client": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
